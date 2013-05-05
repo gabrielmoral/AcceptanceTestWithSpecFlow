@@ -1,2 +1,2 @@
-AcceptanceTestWithSpecFlow
+Acceptance test with SpecFlow
 ==========================
